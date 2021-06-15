@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DivakarSS/Grootan/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Technologies used:  HTML, CSS, JS, Bootstrap 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•	On our page, we give Signup page and Sign-in page as dummy
 
-### Markdown
+•	Once you clicked a signup button after filling in the details it will automatically get to the sign-in page. You have to fill in the required details and click the sign-in button it will redirect to the home page. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•	On the home page, there is a list of records that are shown on the web page. Once you click the record, one modal will open and show up the details of the records.
 
-```markdown
-Syntax highlighted code block
+•	 In that model footer, there is a previous and next button. If we click the previous button it shows up the details of the previous user details. If we click the next button it shows up the details of the next user details.
 
-# Header 1
-## Header 2
-### Header 3
+•	 Finally, there is a Logout button on the home page, if we click that button, it will get back to the sign-in page. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DivakarSS/Grootan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
