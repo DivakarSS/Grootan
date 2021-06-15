@@ -1,7 +1,7 @@
 
 Technologies used:  HTML, CSS, JS, Bootstrap 
-
-•	On our index page, we give Signup page and Sign-in page as dummy
+                                                                 
+•	On our index page, we give Signup page and Sign-in page as dummy (we need not to enter the details in signup and signin page).
 
 •	Once you clicked a signup button it will automatically get to the sign-in page. You have to click the sign-in button, it will redirect to the home page. 
 
